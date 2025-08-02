@@ -1,0 +1,1 @@
+Generated with the command: https://start.spring.io/#!type=gradle-project&language=java&platformVersion=4.0.0-M1&packaging=jar&jvmVersion=24&groupId=com.example&artifactId=SB4.0-WebTestClient&name=SB4.0-WebTestClient&description=Demo%20project%20for%20Spring%20Boot&packageName=com.example.SB4.0-WebTestClient&dependencies=actuator,webflux,spring-webclient
