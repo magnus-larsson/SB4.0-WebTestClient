@@ -1,4 +1,4 @@
-package com.example.SB4.__WebTestClient;
+package com.example.sb40.webtestclient;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
