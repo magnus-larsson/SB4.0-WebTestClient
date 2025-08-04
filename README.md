@@ -12,7 +12,7 @@ Run the failing test:
 
 ```
 git clone https://github.com/magnus-larsson/SB4.0-WebTestClient.git
-cd SB4.0-WebTestClient.git
+cd SB4.0-WebTestClient
 
 ./gradlew test -i
 ```
